@@ -1,5 +1,5 @@
 # Overview
-Computer Vision System for Self-Driving Cars
+Computer Vision System for Self-Driving Cars. See the uploaded PDF for implementation details and experimental results.
 
 ## Features
 * Foreground Object Detection
