@@ -1,0 +1,8 @@
+Percent Moving: 100.00 %
+Status: Camera is moving
+Fundamental Matrix
+ [[ -5.68366767e-07   5.11116530e-04  -7.51380102e-02]
+ [ -5.07778822e-04   1.10525101e-05   3.45695287e-01]
+ [  7.43638050e-02  -3.50995506e-01   1.00000000e+00]]
+Intersection Point in first image: (684,148)
+Intersection Point in second image: (684,146)
