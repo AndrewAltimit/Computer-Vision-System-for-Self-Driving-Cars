@@ -9,7 +9,10 @@ Computer Vision System for Self-Driving Cars. See the uploaded PDF for implement
 
 
 ## Prerequisites
-Python 3.* https://www.python.org/download/
+* Python 3.* https://www.python.org/download/
+* OpenCV 3
+* Numpy
+* matplotlib
  
 
 ## Usage
